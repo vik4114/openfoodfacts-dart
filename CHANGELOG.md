@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.14.1](https://github.com/openfoodfacts/openfoodfacts-dart/compare/v1.14.0...v1.14.1) (2022-03-18)
+
+
+### Bug Fixes
+
+* [#414](https://github.com/openfoodfacts/openfoodfacts-dart/issues/414) -  changed get request to post ([#415](https://github.com/openfoodfacts/openfoodfacts-dart/issues/415)) ([e478837](https://github.com/openfoodfacts/openfoodfacts-dart/commit/e4788373a3c41d0b1e6278f53f14f750250f34a4))
+
 ## [1.14.0](https://github.com/openfoodfacts/openfoodfacts-dart/compare/v1.13.0...v1.14.0) (2022-03-15)
 
 
